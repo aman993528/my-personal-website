@@ -1,0 +1,114 @@
+.fixed-width {
+    max-width: 1200px;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+.navbar {
+    background: linear-gradient(to right, #282828 0%, #ffffff 100%)
+}
+
+.hero-section {
+    padding-top: 6%;
+    padding-bottom: 5%;
+    max-height: 800px;
+
+    color: black;
+    background: white;
+}
+
+.hero-section-text {
+    max-width: 1200px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.hero-text {
+    font-size: 400%;
+    line-height: 120%;
+    font-family: 'Playfair Display', sans-serif;
+}
+
+.portfolio {
+    color: black;
+    background: white;
+
+}
+
+.row {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.card-img-top {
+    min-height: 220px;
+}
+
+.about-me {
+    color: black;
+    background: white;
+}
+
+.about-text {
+    margin-left: 7%;
+    margin-right: 6%;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 700;
+    font-size: 250%;
+}
+
+.about-text-p {
+    font-size: 120%;
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    margin: 0;
+}
+
+.footer-text {
+    color: white;
+    padding: 3% 9%;
+    font-size: 250%;
+    line-height: 120%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+.footer-icon {
+    padding: 6% 8%;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 500;
+}
+
+.social {
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 150%;
+    color: white;
+    font-weight: 500;
+}
+
+.butto {
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.bod {
+    color: black;
+        background: white;
+}
+
+
+
+
+/*  background: linear-gradient(to right, #666633 0%, #ffffff 100%);
+ color: white; */
