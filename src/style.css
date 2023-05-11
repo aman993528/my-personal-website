@@ -39,9 +39,13 @@
     margin-left: 6%;
     margin-right: 6%;
 }
+.card {
+    min-height: 435px;
+}
 
 .card-img-top {
-    min-height: 250px;
+    min-height: 220px;
+    max-height: 220px;
 }
 
 .about-me {
